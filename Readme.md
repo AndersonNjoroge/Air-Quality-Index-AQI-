@@ -19,7 +19,6 @@ The AQI Application is developed using the following technologies & tools:
 - Python 3
 - VSCODE
 - Version Control (GIT)
-- [node.js] - evented I/O for the backend
 
 ## Installation
 
