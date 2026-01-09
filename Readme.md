@@ -35,7 +35,7 @@ python3 main.py/
 
 ## Video Illustration
 [Installation](https://www.).
-[How it works](https://www.).
+[How it works](https://tinyurl.com/28ujjtmc).
 
 
 ## License
