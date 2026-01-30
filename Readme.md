@@ -33,7 +33,7 @@ python3 main.py/
 ```
 
 ## Video Illustration
-[How it works](https://tinyurl.com/28ujjtmc).
+[How it works]https://app.airtimetools.com/recorder/s/z_BJHkq5u3polyIb4u8q1v).
 
 
 ## License
